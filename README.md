@@ -1,7 +1,7 @@
 - Hi, I’m @mer1ch
-- I’m interested in ...
-- I’m currently learning Java
-- I’m looking to collaborate on ...
+- I’m interested in Game Developement and Databases
+- I’m currently learning Java, C# and SQL
+- I’m looking to collaborate on Game Developer Companies and Software Developer Companies
 - How to reach me mericburakacar@hotmail.com
 
 <!---
